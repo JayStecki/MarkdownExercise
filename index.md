@@ -80,8 +80,10 @@ def get_strings(file_path, parser):
 
 ### Tables
 
-| Header | HEADER | Header once more
-| ----------- | ----------- | ----------- |
-| one | two | two and half |
-| three | four | five |
-| very longgggggg | yet very looooong | long so |
+| Header          | HEADER            | Header once more |
+| --------------- | ----------------- | ---------------- |
+| one             | two               | two and half     |
+| three           | four              | five             |
+| very longgggggg | yet very looooong | long so          |
+
+that's it
