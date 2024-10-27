@@ -47,6 +47,19 @@ def get_strings(file_path, parser):
 
 [Weather forecast](https://www.meteo.pl/)
 
+
+
 #### Internal
 
 [additional](references.md)
+
+### Images
+
+#### External
+
+![random](https://picsum.photos/200 "random photo")
+
+#### Internal
+
+![trumpet](pngegg.png "trumpet")
+
