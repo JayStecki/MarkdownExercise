@@ -5,6 +5,7 @@
   - [Italic](#italic)
   - [Quote](#quote)
   - [Code and formulas](#code-and-formulas)
+    - [Formula](#formula)
     - [Code frases](#code-frases)
     - [Code block](#code-block)
 - [Linking elements](#linking-elements)
@@ -44,6 +45,10 @@ This is a quote:
 
 ### Code and formulas
 
+#### Formula
+
+This is a formula: $a+b=c$
+
 #### Code frases
 
 This is a text with `void` code phrase.
@@ -57,6 +62,11 @@ def get_strings(file_path, parser):
     """Parse the file and return strings."""
     return parser(file_path)
 ```
+This is a formula:
+
+$$
+a+b=c
+$$
 
 ## Linking elements
 
