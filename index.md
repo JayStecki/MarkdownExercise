@@ -38,3 +38,11 @@ def get_strings(file_path, parser):
     """Parse the file and return strings."""
     return parser(file_path)
 ```
+
+## Linking elements
+
+### Links to content
+
+#### External
+
+[Weather forecast](https://www.meteo.pl/)
