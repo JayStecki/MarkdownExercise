@@ -47,8 +47,6 @@ def get_strings(file_path, parser):
 
 [Weather forecast](https://www.meteo.pl/)
 
-
-
 #### Internal
 
 [additional](references.md)
@@ -63,3 +61,27 @@ def get_strings(file_path, parser):
 
 ![trumpet](pngegg.png "trumpet")
 
+## Lists
+
+### Ordered
+
+1. One.
+    1. Subone.
+    2. Subtwo.
+2. Two.
+3. Three.
+4. ...rock and roll!
+
+### Unordered
+
+* Bullet one.
+* Two.
+* Three bullets.
+
+### Tables
+
+| Header | HEADER | Header once more
+| ----------- | ----------- | ----------- |
+| one | two | two and half |
+| three | four | five |
+| very longgggggg | yet very looooong | long so |
