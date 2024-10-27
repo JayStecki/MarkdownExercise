@@ -116,4 +116,4 @@ $$
 | three           | four              | five             |
 | very longgggggg | yet very looooong | long so          |
 
-that's it
+that's it.
