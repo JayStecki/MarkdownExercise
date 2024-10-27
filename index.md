@@ -52,7 +52,7 @@ This is a text with `void` code phrase.
 
 This is a code block:
 
-```
+```php
 def get_strings(file_path, parser):
     """Parse the file and return strings."""
     return parser(file_path)
