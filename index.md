@@ -46,3 +46,7 @@ def get_strings(file_path, parser):
 #### External
 
 [Weather forecast](https://www.meteo.pl/)
+
+#### Internal
+
+[additional](references.md)
