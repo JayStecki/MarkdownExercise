@@ -62,6 +62,7 @@ def get_strings(file_path, parser):
     """Parse the file and return strings."""
     return parser(file_path)
 ```
+
 This is a formula:
 
 $$
