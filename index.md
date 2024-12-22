@@ -14,7 +14,7 @@
 
 ## Overview
 
-Blogger by Google is a web platform to easily blogging on the Internet. **To start** creating a blog, **go to Blogger page** and register Google account (if you're already Google user - just verify it):
+Blogger by Google is a web platform to easily blogging on the Internet. **To start** creating a blog, **go to Blogger page** and register your Google account (if you're already Google user - just verify it):
 
 https://www.blogger.com/about/?bpli=1
 
