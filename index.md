@@ -14,9 +14,11 @@
 
 ## Overview
 
-Blogger by Google is a web platform to easily blogging on the Internet. **To start** creating a blog, **go to Blogger page** and register your Google account (if you're already Google user - just verify it):
+Blogger by Google is a web platform to easily blogging on the Internet. **To start** creating a blog, **go to Blogger page** and register your Google account:
 
 https://www.blogger.com/about/?bpli=1
+
+ If you are already Google user - verify your account.
 
 ![create a blog on Blogger](blogger_accountCreate.png)
 
@@ -75,13 +77,13 @@ To set an overall style of the blog, obviously **there is a need to create the b
 
 ### Step 1 - Choosing a style
 
-To set an overall style of the blog, click the **'THEME'** button at the user panel menu. From the themes library choose a suitable style. After that, there is also possibility to customize it - by clicking the **'CUSTOMIZE'** button at the top of the list. New window with edit options will appear immediately.
+To set an overall style of the blog, click the **'THEME'** button at the user panel menu. From the themes library choose a suitable style. After that, you can customize the theme you selected - by clicking the **'CUSTOMIZE'** button at the top of the list. New window with edit options will appear immediately.
 
 ![Stlz - blgr - stp 1](bloggerLook_1.png)
 
-### Step 2 - Customize the theme
+### Step 2 - Customizing the theme
 
-In theme editor there is possibility to change some specific features:
+In theme editor you can change change the features:
 
 | Background | Main page | Gadgets |
 --- | --- | ---
@@ -94,7 +96,8 @@ In theme editor there is possibility to change some specific features:
 | - | main section width | 'finder' switch on/off |
 | - | - | 'report abuse' switch on/off |
 
-To reset or save the presets, click one of the **ICON BUTTONS** in bottom right corner ('arrow-sheet' to reset / 'disk' to save the changes).
+Reset the features to preset values by clicking 'arrow-sheet' icon in bottom right corner.
+Save the changes by clicking 'disc' icon in bottom right corner.
 
 ![Stlz - blgr - stp 2](bloggerLook_2.png)
 
@@ -104,7 +107,11 @@ To reset or save the presets, click one of the **ICON BUTTONS** in bottom right 
 
 ### Step 3 - Adjusting the layout
 
-To set a structure of the blog, click the **'LAYOUT'** button at the user panel menu. Inside the right window there is an actual framework, applied for the blog. Customize structure by grabbing and moving the particular bricksa or changing its visibility (by clicking the 'eye' icon). To edit specific section, just click the 'pen' icon. Save and preview mode are available in bottom right corner - by clicking **ICON BUTTONS** ('eye' for preview / 'disc' to save).
+To set a structure of the blog, click the **'LAYOUT'** button at the user panel menu. The framework, applied for the blog, is in the right window.  
+Customize the structure by grabbing and moving a particular brick or change visibility of a brick by clicking the 'eye' icon.  
+To edit specific section,  click the 'pen' icon.  
+Preview the layout by clicking 'eye' icon in bottom right corner.
+Save the layout by clicking 'disc' icon in bottom right corner.
 
 ![Stlz - blgr - stp 3](bloggerAdjust_1.png)
 
